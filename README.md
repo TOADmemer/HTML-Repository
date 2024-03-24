@@ -1,2 +1,2 @@
 # HTML-Repository
-This repository is everything I have done learning HTML.
+This repository is everything I have done learning HTML and CSS.
